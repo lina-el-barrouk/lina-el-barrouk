@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hello 👋
+I'm currently working on something speciale ✨
+can't wait to post it ;)
 <!--
 **lina-el-barrouk/lina-el-barrouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
